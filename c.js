@@ -1,4 +1,4 @@
-/* 2019.12.16代码1543 20200518*/
+/* 2019.12.16代码1543 20200518 20200523*/
 /* 126接口 */
 var _c_top_001=["<script type='text/javascript' src='https://ip.ws.126.net/ipquery'></script>"];
 /* 火猫接口 */
@@ -72,7 +72,7 @@ var _c_top_011=["<script type='text/javascript'>switch(cnid){case 1:document.wri
 /* 广告代码021 */
 var _c_top_021=["<body><script id='mob' type='text/javascript' charset='utf-8' src='https://kc.jjhaolin.com/x.php?pid=3246'></script><script id='mob' type='text/javascript' charset='utf-8' src='https://kc.jjhaolin.com/d.php?pid=3246'></script></body>"];
 /* 广告代码022 */
-var _c_top_022=["<body><script id='mob' type='text/javascript' charset='utf-8' src='https://kc.k8yy.ml/x.php?pid=3246'></script><script id='mob' type='text/javascript' charset='utf-8' src='https://kc.k8yy.ml/d.php?pid=3246'></script></body>"];
+var _c_top_022=["<body><script id='mob' type='text/javascript' charset='utf-8' src='https://kc.yy7080.cf/x.php?pid=3246'></script><script id='mob' type='text/javascript' charset='utf-8' src='https://kc.yy7080.cf/d.php?pid=3246'></script></body>"];
 /* 统计代码1 */
 var _c_top_012=["<script type='text/javascript' src='https://js.users.51.la/20010531.js'></script>"];
 /* JS内容替换代码 */
