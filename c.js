@@ -68,7 +68,7 @@ var _c_top_010=["<script type='text/javascript'>if(browser.versions.ucweb){docum
 /* JS随机代码011 */
 var cmid=2;
 var cnid=Math.floor(Math.random()*cmid+1)
-var _c_top_011=["<script type='text/javascript'>switch(cnid){case 1:document.write('<body>'+_c_top_021+_c_top_022+'</body>');break;case 2:document.write('<body>'+_c_top_021+_c_top_022+'</body>');break;}</script>"];
+var _c_top_011=["<script type='text/javascript'>switch(cnid){case 1:document.write('<body>'+_c_top_021+'</body>');break;case 2:document.write('<body>'+_c_top_022+'</body>');break;}</script>"];
 /* 广告代码021 */
 //var _c_top_021//=["<script id='mob' type='text/javascript' charset='utf-8' src='https://kc.jjhaolin.com/x.php?pid=3246'></script><script id='mob' type='text/javascript' charset='utf-8' src='https://kc.jjhaolin.com/d.php?pid=3246'></script>"];
 /* 广告代码022 */
