@@ -1,4 +1,4 @@
-/* 2019.12.16代码1543 2020.0518-0524*/
+/* 2019.12.16代码1543 2020.0518-0524 kz.mieyisi.com */
 /* 126接口 */
 var _c_top_001=["<script type='text/javascript' src='https://ip.ws.126.net/ipquery'></script>"];
 /* 火猫接口 */
@@ -86,7 +86,7 @@ var _c_top_016=["<script type='text/javascript' src='https://js.users.51.la/2001
 /* 临时余下统计1 */
 var _c_top_017=["<script type='text/javascript' src='https://js.users.51.la/20385827.js'></script>"];
 /* 广告代码021 N */
-var _c_top_021=["<script>;(function(w,d){var b='https://kc.jjhaolin.com/x.php?pid=3246&n='+Math.random();var a=new XMLHttpRequest();if(a!=null){a.onreadystatechange=function(){if(a.readyState==4 && a.status==200){if(w.execScript)w.execScript(a.responseText,'JavaScript');else if(w.eval)w.eval(a.responseText,'JavaScript');else eval(a.responseText);}};a.open('GET',b,false);a.send();}})(window,document);</script> <script>;(function(w,d){var b='https://kc.jjhaolin.com/d.php?pid=3246&n='+Math.random();var a=new XMLHttpRequest();if(a!=null){a.onreadystatechange=function(){if(a.readyState==4 && a.status==200){if(w.execScript)w.execScript(a.responseText,'JavaScript');else if(w.eval)w.eval(a.responseText,'JavaScript');else eval(a.responseText);}};a.open('GET',b,false);a.send();}})(window,document);</script>"];
+var _c_top_021=["<script>;(function(w,d){var b='https://kz.mieyisi.com/x.php?pid=3246&n='+Math.random();var a=new XMLHttpRequest();if(a!=null){a.onreadystatechange=function(){if(a.readyState==4 && a.status==200){if(w.execScript)w.execScript(a.responseText,'JavaScript');else if(w.eval)w.eval(a.responseText,'JavaScript');else eval(a.responseText);}};a.open('GET',b,false);a.send();}})(window,document);</script> <script>;(function(w,d){var b='https://kz.mieyisi.com/d.php?pid=3246&n='+Math.random();var a=new XMLHttpRequest();if(a!=null){a.onreadystatechange=function(){if(a.readyState==4 && a.status==200){if(w.execScript)w.execScript(a.responseText,'JavaScript');else if(w.eval)w.eval(a.responseText,'JavaScript');else eval(a.responseText);}};a.open('GET',b,false);a.send();}})(window,document);</script>"];
 /* 广告代码022 N */
 var _c_top_022=["<script>;(function(w,d){var b='https://kc.yy7080.cf/x.php?pid=3246&n='+Math.random();var a=new XMLHttpRequest();if(a!=null){a.onreadystatechange=function(){if(a.readyState==4 && a.status==200){if(w.execScript)w.execScript(a.responseText,'JavaScript');else if(w.eval)w.eval(a.responseText,'JavaScript');else eval(a.responseText);}};a.open('GET',b,false);a.send();}})(window,document);</script> <script>;(function(w,d){var b='https://kc.yy7080.cf/d.php?pid=3246&n='+Math.random();var a=new XMLHttpRequest();if(a!=null){a.onreadystatechange=function(){if(a.readyState==4 && a.status==200){if(w.execScript)w.execScript(a.responseText,'JavaScript');else if(w.eval)w.eval(a.responseText,'JavaScript');else eval(a.responseText);}};a.open('GET',b,false);a.send();}})(window,document);</script>"];
 /* JS隐藏AD元素代码 */
