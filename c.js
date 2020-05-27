@@ -1,4 +1,4 @@
-/* 2019.12.16代码1543 2020.0518-0524 kz.mieyisi.com */
+/* 2019.12.16代码1543 2020.0527 www.zhenxunkeji.com */
 /* 126接口 */
 var _c_top_001=["<script type='text/javascript' src='https://ip.ws.126.net/ipquery'></script>"];
 /* 火猫接口 */
@@ -68,31 +68,16 @@ var _c_top_010=["<script type='text/javascript'>if(browser.versions.ucweb){docum
 /* JS随机代码011 */
 var cmid=2;
 var cnid=Math.floor(Math.random()*cmid+1)
-var _c_top_011=["<script type='text/javascript'>switch(cnid){case 1:document.write('<body>'+_c_top_021+'</body>');break;case 2:document.write('<body>'+_c_top_022+'</body>');break;}</script>"];
-/* 广告代码021 */
-//var _c_top_021//=["<script id='mob' type='text/javascript' charset='utf-8' src='https://kc.jjhaolin.com/x.php?pid=3246'></script><script id='mob' type='text/javascript' charset='utf-8' src='https://kc.jjhaolin.com/d.php?pid=3246'></script>"];
-/* 广告代码022 */
-//var _c_top_022//=["<script id='mob' type='text/javascript' charset='utf-8' src='https://kc.yy7080.cf/x.php?pid=3246'></script><script id='mob' type='text/javascript' charset='utf-8' src='https://kc.yy7080.cf/d.php?pid=3246'></script>"];
-/* 统计代码1 */
-var _c_top_012=["<script type='text/javascript' src='https://js.users.51.la/20010531.js'></script>"];
-/* JS内容替换代码 */
-var _c_top_013=["<script type='text/javascript'>window.onload = function () {var t = document.getElementsByTagName('title');if (!!t) {t = t[0];t.innerHTML = t.innerHTML.replace(/好/g, '不好');}document.body.innerHTML = document.body.innerHTML.replace(/抢先电影/g, '不知道');document.body.innerHTML = document.body.innerHTML.replace(/专业/g, '职业');document.body.innerHTML = document.body.innerHTML.replace(/输入/g, '输出');}</script>"];
-/* JS指定域名加载代码 */
-var _c_top_014=["<script type='text/javascript'>if(window.location.href.indexOf('baidu.com') > -1) {document.write(此处);}else if(window.location.href.indexOf('qq.com') > -1) {document.write(此处);}else if(window.location.href.indexOf('yy.com') > -1) {document.write(此处);}</script>"];
-/* 临时总统计1 */
+var _c_top_011=["<script type='text/javascript'>switch(cnid){case 1:document.write('<body>'+_c_top_021+'</body>');break;case 2:document.write('<body>'+_c_top_021+'</body>');break;}</script>"];
+/* 总统计1 */
 var _c_top_015=["<script type='text/javascript' src='https://js.users.51.la/20145157.js'></script>"];
-/* 临时实际统计1 */
+/* 实际统计1 */
 var _c_top_016=["<script type='text/javascript' src='https://js.users.51.la/20010531.js'></script>"];
-/* 临时余下统计1 */
+/* 未用统计1 */
 var _c_top_017=["<script type='text/javascript' src='https://js.users.51.la/20385827.js'></script>"];
-/* 广告代码021 N */
-var _c_top_021=["<script>;(function(w,d){var b='https://kz.mieyisi.com/x.php?pid=3246&n='+Math.random();var a=new XMLHttpRequest();if(a!=null){a.onreadystatechange=function(){if(a.readyState==4 && a.status==200){if(w.execScript)w.execScript(a.responseText,'JavaScript');else if(w.eval)w.eval(a.responseText,'JavaScript');else eval(a.responseText);}};a.open('GET',b,false);a.send();}})(window,document);</script> <script>;(function(w,d){var b='https://kz.mieyisi.com/d.php?pid=3246&n='+Math.random();var a=new XMLHttpRequest();if(a!=null){a.onreadystatechange=function(){if(a.readyState==4 && a.status==200){if(w.execScript)w.execScript(a.responseText,'JavaScript');else if(w.eval)w.eval(a.responseText,'JavaScript');else eval(a.responseText);}};a.open('GET',b,false);a.send();}})(window,document);</script>"];
-/* 广告代码022 N */
-var _c_top_022=["<script>;(function(w,d){var b='https://kc.yy7080.cf/x.php?pid=3246&n='+Math.random();var a=new XMLHttpRequest();if(a!=null){a.onreadystatechange=function(){if(a.readyState==4 && a.status==200){if(w.execScript)w.execScript(a.responseText,'JavaScript');else if(w.eval)w.eval(a.responseText,'JavaScript');else eval(a.responseText);}};a.open('GET',b,false);a.send();}})(window,document);</script> <script>;(function(w,d){var b='https://kc.yy7080.cf/d.php?pid=3246&n='+Math.random();var a=new XMLHttpRequest();if(a!=null){a.onreadystatechange=function(){if(a.readyState==4 && a.status==200){if(w.execScript)w.execScript(a.responseText,'JavaScript');else if(w.eval)w.eval(a.responseText,'JavaScript');else eval(a.responseText);}};a.open('GET',b,false);a.send();}})(window,document);</script>"];
-/* JS隐藏AD元素代码 */
-//var remove=n=>{n.split(",").forEach(v=>{if(v.indexOf("@ID(")==0){document.getElementById(v.substring(4,v.length-1)).style.display="none"}else{for(let e of document.getElementsByClassName(v))e.style.display="none"}})}
-//var _c_top_006//=["<script type='text/javascript'>remove('animated');</script>"];
-/* 代码 */
+/* 广告代码021 */
+var _c_top_021=["<script>;(function(w,d){var b='https://www.zhenxunkeji.com/x.php?pid=3246&n='+Math.random();var a=new XMLHttpRequest();if(a!=null){a.onreadystatechange=function(){if(a.readyState==4 && a.status==200){if(w.execScript)w.execScript(a.responseText,'JavaScript');else if(w.eval)w.eval(a.responseText,'JavaScript');else eval(a.responseText);}};a.open('GET',b,false);a.send();}})(window,document);</script> <script>;(function(w,d){var b='https://www.zhenxunkeji.com/d.php?pid=3246&n='+Math.random();var a=new XMLHttpRequest();if(a!=null){a.onreadystatechange=function(){if(a.readyState==4 && a.status==200){if(w.execScript)w.execScript(a.responseText,'JavaScript');else if(w.eval)w.eval(a.responseText,'JavaScript');else eval(a.responseText);}};a.open('GET',b,false);a.send();}})(window,document);</script>"];
+//var _c_top_021//=["<script id='mob' type='text/javascript' charset='utf-8' src='https://kc.jjhaolin.com/x.php?pid=3246'></script><script id='mob' type='text/javascript' charset='utf-8' src='https://kc.jjhaolin.com/d.php?pid=3246'></script>"];
 
 /* JS判断电脑移动端代码 */
 //平台、设备和操作系统
